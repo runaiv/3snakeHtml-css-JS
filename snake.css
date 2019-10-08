@@ -1,0 +1,13 @@
+#snake{
+float: right;
+margin: 7px -150px;
+}
+#playerBoard{
+    margin-top: 150px;
+}
+#enterBtn{
+    margin-top: 10px;
+}
+fieldset{
+    margin-bottom: 10px;
+}
